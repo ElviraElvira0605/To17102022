@@ -1,0 +1,15 @@
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\bin\Debug\net6.0\Task002.exe
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\bin\Debug\net6.0\Task002.deps.json
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\bin\Debug\net6.0\Task002.dll
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\bin\Debug\net6.0\Task002.pdb
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.dll
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\refint\Task002.dll
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.pdb
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
+F:\ОБУЧЕНИЕ 2021\GEEKBRAIN 2022\ПОДГОТОВКА\ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАМИИРОВАНИЯ\To13102022\Task002\obj\Debug\net6.0\ref\Task002.dll
